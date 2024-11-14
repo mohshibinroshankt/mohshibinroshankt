@@ -7,7 +7,7 @@
 ![Shibin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohshibinroshankt&show_icons=true&theme=radical)
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/mohshibinroshankt/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/mohshibinroshankt/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/mohshibinroshankt/github-stats-transparent/output/generated/languages.svg)
