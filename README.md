@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+I am Shibin, a passionate engineer focused on different areas of electronics, instrumentation. robotics , Machine learning and AI.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohshibinroshankt&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -9,17 +9,16 @@
 ### 📊 Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohshibinroshankt&hide=TeX&layout=compact)
 
-<!--
-**mohshibinroshankt/mohshibinroshankt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Autonomous drone 
+- 🌱 I’m currently learning Robotics and Automation
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about electronics, drones, robots , cricket, football and films.
+- 📫 How to reach me: mohammedshibinroshan@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Its funny how fun it is
+
