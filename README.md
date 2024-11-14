@@ -6,7 +6,15 @@
 
 ![Shibin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohshibinroshankt&show_icons=true&theme=radical)
 
-[![Shibin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohshibinroshankt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/mohshibinroshankt/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/mohshibinroshankt/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
 
 <!--
 **mohshibinroshankt/mohshibinroshankt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
