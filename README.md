@@ -6,6 +6,8 @@
 
 ![Shibin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohshibinroshankt&show_icons=true&theme=radical)
 
+[![Shibin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohshibinroshankt&layout=compact)](https://github.com/mohshibinroshan/github-readme-stats)
+
 <!--
 **mohshibinroshankt/mohshibinroshankt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
