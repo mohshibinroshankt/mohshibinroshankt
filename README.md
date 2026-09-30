@@ -92,7 +92,6 @@ And, when I'm not working on robots:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-[![shibin](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="170"/>
 
