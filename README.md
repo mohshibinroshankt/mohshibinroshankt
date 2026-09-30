@@ -7,7 +7,7 @@ I am Shibin, a passionate engineer focused on different areas of electronics, in
 
 
 ### 📊 Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohshibinroshankt&hide=TeX&layout=compact)
+
 
 
 
